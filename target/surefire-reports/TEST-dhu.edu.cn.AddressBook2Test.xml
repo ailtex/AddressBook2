@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.498" errors="0" skipped="0" tests="15" name="dhu.edu.cn.AddressBook2Test">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Java\jdk1.6.0_21\jre\bin"/>
+    <property name="java.vm.version" value="17.0-b16"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\workspace1\AddressBook2"/>
+    <property name="java.runtime.version" value="1.6.0_21-b06"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Java\jdk1.6.0_21\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\zsm\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="F:\Program Files\apache-maven-3.0.5\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Java\jdk1.6.0_21\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\Oracle11g\product\11.2.0\dbhome_1\bin;F:\Program Files\;F:\Program Files\Scripts;%CommonProgramFiles%\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\jdk1.6.0_21\bin;C:\Program Files\MySQL\MySQL Server 5.1\bin;D:\MySQL\MySQL Server 5.5\bin;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;C:\MATLAB7\bin\win32;D:\MATLAB7\bin\win32;f:\Program Files\MATLAB\R2010a\runtime\win32;f:\Program Files\MATLAB\R2010a\bin;D:\Java\jdk1.6.0_21\bin\javac;F:\CTEX\UserData\miktex\bin;F:\CTEX\MiKTeX\miktex\bin;F:\CTEX\CTeX\ctex\bin;F:\CTEX\CTeX\cct\bin;F:\CTEX\CTeX\ty\bin;F:\CTEX\Ghostscript\gs9.05\bin;F:\CTEX\GSview\gsview;F:\CTEX\WinEdt;C:\Program Files\MacType;F:\Program Files\MinGW\bin;F:\Program Files\OpenVPN\bin;F:\Program Files\TortoiseGit\bin;F:\Program Files\TortoiseSVN\bin;F:\MySQL\MySQL Server 5.6\bin;F:\Program Files\apache-maven-3.0.5\bin;%APPDATA%\Python\Scripts"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\zsm"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="user.name" value="zsm"/>
+    <property name="java.class.path" value="F:\Program Files\apache-maven-3.0.5\bin\..\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="D:\Java\jdk1.6.0_21\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.6.0_21"/>
+    <property name="java.ext.dirs" value="D:\Java\jdk1.6.0_21\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Java\jdk1.6.0_21\jre\lib\resources.jar;D:\Java\jdk1.6.0_21\jre\lib\rt.jar;D:\Java\jdk1.6.0_21\jre\lib\sunrsasign.jar;D:\Java\jdk1.6.0_21\jre\lib\jsse.jar;D:\Java\jdk1.6.0_21\jre\lib\jce.jar;D:\Java\jdk1.6.0_21\jre\lib\charsets.jar;D:\Java\jdk1.6.0_21\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="F:\Program Files\apache-maven-3.0.5\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="0.002" classname="dhu.edu.cn.AddressBook2Test" name="testApp"/>
+  <testcase time="0.126" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorHELP"/>
+  <testcase time="0.015" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorLS1"/>
+  <testcase time="0.027" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorLS2"/>
+  <testcase time="0.019" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCD1"/>
+  <testcase time="0" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCD2"/>
+  <testcase time="0.02" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCD3"/>
+  <testcase time="0.037" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCAT1"/>
+  <testcase time="0.016" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCAT2"/>
+  <testcase time="0.018" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorCAT3"/>
+  <testcase time="0.017" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorADD1"/>
+  <testcase time="0.015" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorADD2"/>
+  <testcase time="0.013" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorADD3"/>
+  <testcase time="0.015" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorREMOVE1"/>
+  <testcase time="0.018" classname="dhu.edu.cn.AddressBook2Test" name="testOperatorREMOVE2"/>
+</testsuite>
